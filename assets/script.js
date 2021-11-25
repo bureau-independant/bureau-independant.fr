@@ -2,7 +2,7 @@ function init() {
 	// insert email address
 	var email = document.createElement('a');
 	email.innerHTML = 'contact';
-	email.href = 'mailto:contact.berneauguillaume@gmail.com';
+	email.href = 'mailto:hello@bureau-independant.fr';
 	document.querySelector('#email').appendChild(email);
 
 	// insert phone number
