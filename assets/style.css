@@ -60,7 +60,7 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 	scrollbar-width: none;
 	-ms-overflow-style: none;
-	background-color: #4b1604;
+	background-color: #e4fffe;
 	color: #black;
 	font-family: 'times',  serif;
 	font-weight: 400;
@@ -141,7 +141,7 @@ a:focus {
 	width: 560px;
 	margin: 12px 20px;
 	background-color: #cccdce;
-	color: #white;
+	color: #black;
 	padding: 18px 20px 12px 20px;
 	border-radius: 25px;
 }
