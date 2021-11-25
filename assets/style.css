@@ -1,6 +1,6 @@
 @font-face {
-  font-family: 'itcavantgarde';
-  src: url("/font/ITCAvantGardeStd-Md.otf");
+  font-family: 'times';
+  src: url("/font/TimesNow-Light.ttf");
 }
 
 
@@ -62,7 +62,7 @@ body {
 	-ms-overflow-style: none;
 	background-color: #d8d8d8;
 	color: #black;
-	font-family: 'itcavantgarde', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+	font-family: 'times',  serif;
 	font-weight: 400;
 	font-size: 19px;
 	letter-spacing: -0.60px;
