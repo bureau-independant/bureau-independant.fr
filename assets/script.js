@@ -1,15 +1,10 @@
 function init() {
 	// insert email address
 	var email = document.createElement('a');
-	email.innerHTML = 'contact';
+	email.innerHTML = 'Contact';
 	email.href = 'mailto:hello@bureau-independant.fr';
 	document.querySelector('#email').appendChild(email);
 
-	// insert phone number
-	var phone = document.createElement('a');
-	phone.innerHTML = '+33&nbsp;(0)&nbsp;6&nbsp;58&nbsp;76&nbsp;62&nbsp;97';
-	phone.href = 'tel:+33658766297';
-	document.querySelector('#phone').appendChild(phone);
 
 	// about section
 	document.querySelector('button#info').addEventListener('click', () => {
