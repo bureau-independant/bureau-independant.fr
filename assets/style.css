@@ -149,6 +149,7 @@ a:focus {
 #header > #about > div p:not(:first-child) {
 	margin: 10px 0;
 }
+}
 
 #slider {
 	position: fixed;
